@@ -3,7 +3,7 @@
 server <- function(input, output) {
   
   # Load data
-  df_path <- "~/Documents/Projets/R_projects/impact_data_test/data/data_reach.xlsx"
+  df_path <- "data/data_reach.xlsx"
   df <- read_excel(path=df_path)
   
   

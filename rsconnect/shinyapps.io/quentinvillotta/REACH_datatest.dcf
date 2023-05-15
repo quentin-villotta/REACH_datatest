@@ -1,0 +1,13 @@
+name: REACH_datatest
+title: REACH_datatest
+username:
+account: quentinvillotta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9114630
+bundleId: 7221638
+url: https://quentinvillotta.shinyapps.io/REACH_datatest/
+when: 1684182933.89741
+lastSyncTime: 1684182933.89744
+asMultiple: FALSE
+asStatic: FALSE
